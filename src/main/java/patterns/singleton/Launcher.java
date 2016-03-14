@@ -1,6 +1,8 @@
 package patterns.singleton;
 
 
+import patterns.singleton.singleton.Singleton;
+
 public class Launcher {
 
     public static void main(String[] args) {
